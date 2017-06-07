@@ -1,0 +1,132 @@
+header{
+	background-image: url(Imagenes/fondo.jpg);
+}
+body{
+	background-color: transparent;
+	background-image: url(Imagenes/fondo.jpg);
+}
+.titulo{
+	font-size: 80px;
+	font-family: 'Eagle Lake', cursive;
+	color: black;
+	text-align: center;
+}
+.texto{
+	font-size: 20px;
+	font-family: 'Eagle Lake', cursive;
+	color: black;
+}
+#texto{
+	font-size: 25px;
+	font-family: 'Eagle Lake', cursive;
+    color: black;
+	text-align: center;
+}
+
+.bestiaB{
+	font-size: 38px;
+	font-family: 'Eagle Lake', cursive;
+	color: #B01616;
+	text-align: center;
+}
+.bestiaH{
+	font-size: 38px;
+	font-family: 'Eagle Lake', cursive;
+	text-align: center;
+	color: #156821;
+
+}
+.bestiaG{
+	font-size: 38px;
+	font-family: 'Eagle Lake', cursive;
+	text-align: center;
+	color: #744507;
+
+}
+
+.bestiaF{
+	font-size: 38px;
+	font-family: 'Eagle Lake', cursive;
+	text-align: center;
+	color: #166A9F;
+}
+.bestiaE{
+	font-size: 38px;
+	font-family: 'Eagle Lake', cursive;
+	text-align: center;
+	color: #03571B;
+}
+.bestias{
+	font-size: 40px;
+	font-family: 'Eagle Lake', cursive;
+	text-align: center;
+	color: black;
+}
+
+}
+ul{
+	clear: both;
+	float: left;
+	width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	float: left;
+	margin: 50px;
+	background:transparent;
+}
+
+
+.botona{
+	text-decoration: none;
+   color: black;
+   font-size: 30px;
+   font-family: 'Eagle Lake', cursive;
+ float: left;
+ margin:0;
+}
+.botonb{
+	text-decoration: none;
+   color: black;
+   font-size: 30px;
+   font-family: 'Eagle Lake', cursive;
+   float: right;
+   margin: 0;
+}
+.botonc{
+	text-decoration: none;
+   color: black;
+   font-size: 30px;
+   font-family: 'Eagle Lake', cursive;
+    display: inline-block;
+    list-style-position: 
+
+}
+.imagen{
+	display: block;
+	margin: auto;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.video{
+	display: block;
+	margin: auto;
+}
+.pie{
+	font-size: 18px;
+	font-family: 'Eagle Lake', cursive;
+	text-align: center;
+	color: black;
+	
+
+}
+.liga{
+	text-decoration: none;
+	color: black;
+}
+.menu{
+   list-style: none;
+}
